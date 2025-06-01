@@ -12,14 +12,10 @@
 
 ## Which single borough has the largest standard deviation in the combined SAT score?
 
-- Save your results as a pandas DataFrame called largest_std_dev.
+- Save your results as a pandas DataFrame called `largest_std_dev`.
 - The DataFrame should contain one row, with:
-`"borough"`
-  - the name of the NYC borough with the largest standard deviation of `"total_SAT"`.
-`"num_schools"`
-  - the number of schools in the borough.
-`"average_SAT"`
-  - the mean of `"total_SAT"`.
-`"std_SAT"`
-- the standard deviation of `"total_SAT"`.
+  - `"borough"` the name of the NYC borough with the largest standard deviation of `"total_SAT"`.
+  - `"num_schools"` the number of schools in the borough.
+  - `"average_SAT"` the mean of `"total_SAT"`.
+  - `"std_SAT"` the standard deviation of `"total_SAT"`.
 -Round all numeric values to two decimal places.
